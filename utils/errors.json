@@ -1,0 +1,12 @@
+{
+  "USER_EXISTS": "User already exists with this email.",
+  "USER_NOT_FOUND": "User not found.",
+  "INVALID_CREDENTIALS": "Invalid email or password.",
+  "DB_ERROR": "Database error occurred.",
+  "UNAUTHORIZED": "Unauthorized access. Token missing or invalid.",
+  "FORBIDDEN": "Access denied.",
+  "PROFILE_UPDATE_FAILED": "Could not update profile.",
+  "REGISTER_FAILED": "Failed to register user.",
+  "IP_NOT_WHITELISTED": "Your IP address is not allowed.",
+  "INVALID_REQUEST": "Request is not valid."
+}
